@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">paimongg</string>
+
+    <string-array name="data_name">
+        <item>Alhaitham</item>
+        <item>Kamisato Ayaka</item>
+        <item>Kamisato Ayato</item>
+        <item>Cyno</item>
+        <item>Diluc</item>
+        <item>Hu Tao</item>
+        <item>Klee</item>
+        <item>Raiden Shogun</item>
+        <item>Tartaglia</item>
+        <item>Zhongli</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>The current scribe of the Sumeru Akademiya, a man endowed with extraordinary intelligence and talent. He lives free — free from the searching eyes of ordinary people, anyway.</item>
+        <item>Daughter of the Yashiro Commission’s Kamisato Clan. Dignified and elegant, as well as wise and strong.</item>
+        <item>The young but highly accomplished head of the Yashiro Commission’s Kamisato Clan. Cultured and polite, he is a man of many ways and means.</item>
+        <item>The General Mahamatra in charge of supervising the researchers of the Akademiya. It is said that when he gets down to work, the General Mahamatra is even more efficient than the “Great Vayuvyastra” made by the Kshahrewar.</item>
+        <item>The tycoon of a winery empire in Mondstadt, unmatched in every possible way.</item>
+        <item>The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.</item>
+        <item>An explosives expert and a regular at the Knights of Favonius’s confinement room. Also known as Fleeing Sunlight.</item>
+        <item>Her Excellency, the Almighty Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.</item>
+        <item>No. 11 of The Harbingers, also known as “Childe.” His name is highly feared on the battlefield.</item>
+        <item>A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/alhaitham</item>
+        <item>@drawable/ayaka</item>
+        <item>@drawable/ayato</item>
+        <item>@drawable/cyno</item>
+        <item>@drawable/diluc</item>
+        <item>@drawable/hutao</item>
+        <item>@drawable/klee</item>
+        <item>@drawable/shogun</item>
+        <item>@drawable/tartaglia</item>
+        <item>@drawable/zhongli</item>
+    </integer-array>
+
+    <string-array name="data_nation">
+        <item>SUMERU</item>
+        <item>INAZUMA</item>
+        <item>INAZUMA</item>
+        <item>SUMERU</item>
+        <item>MONDSTADT</item>
+        <item>LIYUE</item>
+        <item>MONDSTADT</item>
+        <item>INAZUMA</item>
+        <item>SNEZHNAYA</item>
+        <item>LIYUE</item>
+    </string-array>
+
+    <string-array name="data_cons">
+        <item>Vultur Volans</item>
+        <item>Grus Nivis</item>
+        <item>Cypressus Custos</item>
+        <item>Lupus Aureus</item>
+        <item>Noctua</item>
+        <item>Papilio Charontis</item>
+        <item>Trifolium</item>
+        <item>Imperatrix Umbrosa</item>
+        <item>Monoceros Caeli</item>
+        <item>Vago Mundo</item>
+    </string-array>
+
+    <string-array name="data_weapon">
+        <item>SWORD</item>
+        <item>SWORD</item>
+        <item>SWORD</item>
+        <item>POLEARM</item>
+        <item>CLAYMORE</item>
+        <item>POLEARM</item>
+        <item>CATALYST</item>
+        <item>POLEARM</item>
+        <item>BOW</item>
+        <item>POLEARM</item>
+    </string-array>
+
+    <string-array name="data_occupation">
+        <item>Sumeru Akademiya</item>
+        <item>Yashiro Comission</item>
+        <item>Yashiro Comission</item>
+        <item>Temple of Silence</item>
+        <item>Dawn Winery</item>
+        <item>Wangsheng Funeral Parlor</item>
+        <item>Knights of Favonius</item>
+        <item>Inazuma City</item>
+        <item>Fatui</item>
+        <item>Wangsheng Funeral Parlor</item>
+
+
+    </string-array>
+
+</resources>
